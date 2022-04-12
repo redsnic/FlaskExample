@@ -1,1 +1,1 @@
-web: gunicorn app:AddingDB
+web: gunicorn app:app
